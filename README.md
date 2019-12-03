@@ -1,2 +1,2 @@
 # test
-GitHyb tests
+GitHub tests
